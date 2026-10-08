@@ -1,0 +1,22 @@
+{
+  "courseWorkMaterial": [
+    {
+      "courseId": "C1",
+      "id": "M1",
+      "title": "Week 1 slides",
+      "description": "Watch before class.",
+      "materials": [
+        {
+          "youtubeVideo": {
+            "id": "YT1",
+            "title": "Photosynthesis in 5 minutes",
+            "alternateLink": "https://youtu.be/YT1"
+          }
+        }
+      ],
+      "state": "PUBLISHED",
+      "alternateLink": "https://classroom.google.com/c/C1/m/M1/details",
+      "creationTime": "2026-02-01T08:00:00Z"
+    }
+  ]
+}

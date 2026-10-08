@@ -1,0 +1,7 @@
+.env
+/schoolwork-check
+/tasks.json
+/tasks.md
+/tasks.csv
+__pycache__/
+/result

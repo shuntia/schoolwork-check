@@ -1,0 +1,50 @@
+{
+  "courseWork": [
+    {
+      "courseId": "C1",
+      "id": "CW1",
+      "title": "Cell essay",
+      "description": "Write 500 words on the cell.\r\nCite two sources.",
+      "materials": [
+        {
+          "driveFile": {
+            "driveFile": {
+              "id": "DOC1",
+              "title": "Reading: mitochondria",
+              "alternateLink": "https://docs.google.com/document/d/DOC1/edit"
+            },
+            "shareMode": "VIEW"
+          }
+        },
+        {
+          "link": {
+            "url": "https://example.org/syllabus",
+            "title": "Syllabus"
+          }
+        }
+      ],
+      "state": "PUBLISHED",
+      "alternateLink": "https://classroom.google.com/c/C1/a/CW1/details",
+      "creationTime": "2026-02-01T09:00:00Z",
+      "updateTime": "2026-02-02T09:00:00Z",
+      "dueDate": {"year": 2026, "month": 3, "day": 10},
+      "dueTime": {"hours": 23, "minutes": 59},
+      "maxPoints": 100,
+      "workType": "ASSIGNMENT"
+    },
+    {
+      "courseId": "C1",
+      "id": "CW2",
+      "title": "Quick check: ATP",
+      "description": "How many ATP per glucose?",
+      "state": "PUBLISHED",
+      "alternateLink": "https://classroom.google.com/c/C1/a/CW2/details",
+      "creationTime": "2026-02-10T09:00:00Z",
+      "scheduledTime": "2026-02-12T08:00:00Z",
+      "dueDate": {"year": 2026, "month": 2, "day": 20},
+      "dueTime": {"hours": 12, "minutes": 0},
+      "maxPoints": 10,
+      "workType": "SHORT_ANSWER_QUESTION"
+    }
+  ]
+}

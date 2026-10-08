@@ -1,0 +1,22 @@
+{
+  "studentSubmissions": [
+    {
+      "courseId": "C1",
+      "courseWorkId": "CW2",
+      "id": "S2",
+      "userId": "me",
+      "state": "RETURNED",
+      "assignedGrade": 8,
+      "draftGrade": 8,
+      "updateTime": "2026-02-21T10:00:00Z",
+      "alternateLink": "https://classroom.google.com/c/C1/a/CW2/submissions/S2",
+      "courseWorkType": "SHORT_ANSWER_QUESTION",
+      "shortAnswerSubmission": {"answer": "About 30 to 32 ATP."},
+      "submissionHistory": [
+        {"stateHistory": {"state": "TURNED_IN", "stateTimestamp": "2026-02-19T22:15:00Z"}},
+        {"gradeHistory": {"gradeChangeType": "ASSIGNED_GRADE_POINTS_EARNED_CHANGE", "pointsEarned": 8, "maxPoints": 10, "gradeTimestamp": "2026-02-21T10:00:00Z"}},
+        {"stateHistory": {"state": "RETURNED", "stateTimestamp": "2026-02-21T10:00:00Z"}}
+      ]
+    }
+  ]
+}

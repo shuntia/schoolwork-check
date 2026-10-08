@@ -1,0 +1,12 @@
+{
+  "courses": [
+    {
+      "id": "C1",
+      "name": "Biology 101",
+      "section": "Period 3",
+      "descriptionHeading": "Intro Biology",
+      "courseState": "ACTIVE",
+      "alternateLink": "https://classroom.google.com/c/C1"
+    }
+  ]
+}

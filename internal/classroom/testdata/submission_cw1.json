@@ -1,0 +1,30 @@
+{
+  "studentSubmissions": [
+    {
+      "courseId": "C1",
+      "courseWorkId": "CW1",
+      "id": "S1",
+      "userId": "me",
+      "state": "TURNED_IN",
+      "late": true,
+      "updateTime": "2026-02-28T18:03:00Z",
+      "alternateLink": "https://classroom.google.com/c/C1/a/CW1/submissions/S1",
+      "courseWorkType": "ASSIGNMENT",
+      "assignmentSubmission": {
+        "attachments": [
+          {
+            "driveFile": {
+              "id": "PDF1",
+              "title": "essay.pdf",
+              "alternateLink": "https://drive.google.com/file/d/PDF1/view"
+            }
+          }
+        ]
+      },
+      "submissionHistory": [
+        {"stateHistory": {"state": "CREATED", "stateTimestamp": "2026-02-01T09:00:00Z"}},
+        {"stateHistory": {"state": "TURNED_IN", "stateTimestamp": "2026-02-28T18:02:00Z"}}
+      ]
+    }
+  ]
+}
