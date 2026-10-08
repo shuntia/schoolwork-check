@@ -1,5 +1,7 @@
 # schoolwork-check
 
+**This repository is completely coded via an LLM and is intended to bind to shuntia/note latest. Features are subject to change.**
+
 Pulls every assignment, quiz, discussion and reading from Canvas, Google
 Classroom, the course calendars your teachers keep in a Google Doc and the
 meetings on a shared Google Calendar into one table, with the teacher's attachments and your own
